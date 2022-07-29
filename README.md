@@ -1,2 +1,4 @@
-# ToDo_List_ReactApp
-Created with CodeSandbox
+# To Do List React App
+### When building the React Application of To-Do-List where it was used with framework and libraries like ReactDOM, React JSX (Javascript Extension Language), and Babel Transpiler to easily create my app to my software requirements entitled for this project. In addition, created a few modules with ToDo content can help distribute some good content into each block of text and be able to insert and remove functionality that was brought by the CRUD model. This way I was able to makethe functionality with some built in functions like rest operator, spread operator, async and promise functions that made a significant impact to the ToDo functionality of the application.
+###  For styling, I had used each padding, border, span, and background-color be able to decorate each element in html file. I had to bring together to a specific length away from the window webpage. Width, height, diameter, and text style were implemented in each element from the the components in this project. I was able to finish the style touches successfully to what I had expected.
+
